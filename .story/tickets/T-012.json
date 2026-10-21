@@ -1,0 +1,14 @@
+{
+  "blockedBy": [
+    "T-011"
+  ],
+  "completedDate": null,
+  "createdDate": "2026-10-21",
+  "description": "",
+  "id": "T-012",
+  "order": 10,
+  "phase": "publish",
+  "status": "open",
+  "title": "Write caption and hashtags, then post",
+  "type": "task"
+}

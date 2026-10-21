@@ -1,0 +1,14 @@
+{
+  "blockedBy": [
+    "T-004"
+  ],
+  "completedDate": null,
+  "createdDate": "2026-10-21",
+  "description": "",
+  "id": "T-006",
+  "order": 30,
+  "phase": "episode-1",
+  "status": "open",
+  "title": "Create character sheets",
+  "type": "task"
+}

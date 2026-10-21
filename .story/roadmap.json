@@ -1,0 +1,37 @@
+{
+  "blockers": [],
+  "date": "2026-10-21",
+  "phases": [
+    {
+      "description": "Reference reel breakdown and the skills used for writing short dramas.",
+      "id": "foundation",
+      "label": "PHASE 1",
+      "name": "Foundation"
+    },
+    {
+      "description": "Write the first original short-drama episode: hook, script, characters, shot prompts and voice notes.",
+      "id": "episode-1",
+      "label": "PHASE 2",
+      "name": "Episode 1"
+    },
+    {
+      "description": "Generate the clips, add voice and music, and edit episode 1 in CapCut.",
+      "id": "production",
+      "label": "PHASE 3",
+      "name": "Production"
+    },
+    {
+      "description": "Post episode 1 and track how it performs.",
+      "id": "publish",
+      "label": "PHASE 4",
+      "name": "Publish"
+    },
+    {
+      "description": "Plan the next episodes and study more reference reels.",
+      "id": "series",
+      "label": "PHASE 5",
+      "name": "Series"
+    }
+  ],
+  "title": "Qasimtest"
+}

@@ -1,0 +1,14 @@
+{
+  "features": {
+    "handovers": true,
+    "issues": true,
+    "reviews": true,
+    "roadmap": true,
+    "tickets": true
+  },
+  "language": "markdown",
+  "project": "Qasimtest",
+  "schemaVersion": 1,
+  "type": "content",
+  "version": 2
+}

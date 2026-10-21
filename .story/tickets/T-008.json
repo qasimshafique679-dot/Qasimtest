@@ -1,0 +1,14 @@
+{
+  "blockedBy": [
+    "T-005"
+  ],
+  "completedDate": null,
+  "createdDate": "2026-10-21",
+  "description": "",
+  "id": "T-008",
+  "order": 50,
+  "phase": "episode-1",
+  "status": "open",
+  "title": "Write voice notes",
+  "type": "task"
+}

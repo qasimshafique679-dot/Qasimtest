@@ -1,0 +1,14 @@
+{
+  "blockedBy": [
+    "T-008"
+  ],
+  "completedDate": null,
+  "createdDate": "2026-10-21",
+  "description": "",
+  "id": "T-010",
+  "order": 20,
+  "phase": "production",
+  "status": "open",
+  "title": "Record or generate voiceover and pick music",
+  "type": "task"
+}

@@ -1,0 +1,12 @@
+{
+  "blockedBy": [],
+  "completedDate": "2026-10-21",
+  "createdDate": "2026-10-21",
+  "description": "",
+  "id": "T-002",
+  "order": 20,
+  "phase": "foundation",
+  "status": "complete",
+  "title": "Add story-short-write skill",
+  "type": "chore"
+}

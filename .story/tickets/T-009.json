@@ -1,0 +1,14 @@
+{
+  "blockedBy": [
+    "T-007"
+  ],
+  "completedDate": null,
+  "createdDate": "2026-10-21",
+  "description": "",
+  "id": "T-009",
+  "order": 10,
+  "phase": "production",
+  "status": "open",
+  "title": "Generate clips in Veo or Kling",
+  "type": "task"
+}

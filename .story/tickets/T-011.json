@@ -1,0 +1,15 @@
+{
+  "blockedBy": [
+    "T-009",
+    "T-010"
+  ],
+  "completedDate": null,
+  "createdDate": "2026-10-21",
+  "description": "",
+  "id": "T-011",
+  "order": 30,
+  "phase": "production",
+  "status": "open",
+  "title": "Edit in CapCut with subtitles and overlays",
+  "type": "task"
+}
