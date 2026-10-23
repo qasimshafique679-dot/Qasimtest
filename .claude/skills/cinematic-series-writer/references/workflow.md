@@ -57,6 +57,12 @@ Words like "bounty", "brings me the beast" or "kill" can also trigger blocks. Us
 
 **h) Maximum 3 Ingredients per clip.** Characters first, then the location. A face matters more than a background.
 
+**j) Arrivals belong to the next clip.** If a clip says someone "appears in the doorway at the end", Veo puts them there from the first frame and plays out the next clip's action. End a clip on the door opening with an **empty doorway**, and start the next clip with the person entering.
+
+**k) Faces stay visible.** Characters in winter clothing get hoods or face coverings added. Say "face clearly visible, no hood, no face covering" whenever a character's identity matters.
+
+**l) Props and drinks drift back.** Veo slides back to the obvious version (beer instead of coffee, people sitting instead of standing). Repeat the important detail in the negatives ("no beer", "Doreen stays standing").
+
 **i) Start images.** For every clip that opens in a new place or with a new group, write a **START IMAGE PROMPT** (for Nano Banana / Gemini) so the user can check positions and faces before spending video credits. Clips that continue directly use the previous clip's last frame (*Frames to Video*).
 
 ---

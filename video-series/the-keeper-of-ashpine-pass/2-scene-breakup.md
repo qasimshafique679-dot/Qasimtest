@@ -34,18 +34,18 @@ Rule: the **END FRAME** of each clip is the **START FRAME** of the next one.
 3. He leans forward on both fists and announces his line, grinning.
 4. The lumberjacks lean back and laugh, then raise their coffee mugs.
 5. Doreen gives a small, satisfied smile.
-6. At the back of the room the front door swings open and a gust of snow blows in.
+6. In the last two seconds the front door in the right wall swings open and a gust of snow blows in; nobody enters yet.
 
 **DIALOGUE:** Walt: *"Five thousand dollars to whoever finds that white beast."*
 
-**END FRAME:** Walt behind the bar, both fists on the counter, the leather pouch in front of him. Lumberjacks on their stools, mugs raised. Doreen at the right end of the bar, now looking toward the door. **The front door is open**, with snow blowing in and a figure in a mustard-yellow parka standing in the doorway. Camera: wide, from behind the lumberjacks' shoulders.
+**END FRAME:** Walt behind the bar, both fists on the counter, the leather pouch in front of him. Lumberjacks on their stools, mugs raised. Doreen at the right end of the bar, now looking toward the door. **The front door is open**, with snow blowing in and the doorway still empty. Camera: wide, from behind the lumberjacks' shoulders.
 
 ---
 
 ### CLIP 2 — The Mail Girl (0:08–0:16)
 **Ingredients:** nora-master, doreen-master, walt-master
 
-**START FRAME:** Same as the end of clip 1. Nora stands in the open doorway, snow on her shoulders and beanie. Everyone else is in the same place.
+**START FRAME:** Same as the end of clip 1: the door is open, snow is blowing in, and the doorway is empty. In the first second Nora walks in from the snow, her face visible, snow on her shoulders and beanie. Everyone else is in the same place.
 
 **ACTION:**
 1. Nora steps fully inside.
