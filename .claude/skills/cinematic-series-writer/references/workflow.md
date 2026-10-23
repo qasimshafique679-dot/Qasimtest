@@ -63,6 +63,12 @@ Words like "bounty", "brings me the beast" or "kill" can also trigger blocks. Us
 
 **l) Props and drinks drift back.** Veo slides back to the obvious version (beer instead of coffee, people sitting instead of standing). Repeat the important detail in the negatives ("no beer", "Doreen stays standing").
 
+**m) Keyframes first: the default Stage 3 method.** Before any video prompt, write a **keyframe** (a still picture) for the start of clip 1 and for the end of every clip; each end keyframe is also the next clip's start. Make the first keyframe of each camera setup with a full prompt; make every following keyframe by **editing the previous picture** ("Keep this exact image… Change ONLY these things: …"), so the room, the doors and the faces stay identical. Give each keyframe a ✅ checklist. Each video prompt then says **"Start exactly on the start frame and finish exactly on the end frame"** and times the action in seconds (0–2 s, 2–4 s…). Define one **fixed camera frame per location** (e.g. a "LODGE FRAME" paragraph) plus fixed positions for every person, and reuse it. End Stage 3 with a **join-by-join continuity table**. The user then fixes cheap pictures instead of expensive videos.
+
+**n) Character pictures beat prompt text.** If a character keeps getting a beard or the wrong clothes despite the prompt, the Character's reference picture in Flow is the cause. Tell the user to regenerate that picture first.
+
+**o) Never patch clip by clip.** When a test clip fails, re-verify the whole chain (every keyframe and every prompt) in one pass, and deliver one complete corrected set, so the user doesn't spend credits on repeated partial fixes.
+
 **i) Start images.** For every clip that opens in a new place or with a new group, write a **START IMAGE PROMPT** (for Nano Banana / Gemini) so the user can check positions and faces before spending video credits. Clips that continue directly use the previous clip's last frame (*Frames to Video*).
 
 ---

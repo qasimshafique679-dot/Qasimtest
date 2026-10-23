@@ -85,7 +85,7 @@ Number of clips = total seconds ÷ 8, rounded up. Then continue straight to Stag
 Follow `references/workflow.md`:
 - **Stage 1** — analysis (if transcript), original concept, character bible with locked lines, voice profiles, environment bible, props, costume tracker, colour grade, **reference image prompts** for every character, creature growth stage, location and key prop.
 - **Stage 2** — scene breakup table with START FRAME → ACTION → END FRAME for all N clips.
-- **Stage 3** — Flow video prompts in batches of about 12 clips.
+- **Stage 3**: first the **keyframes** (still-picture prompts for the start of clip 1 and the end of every clip; each end = the next start; later keyframes are edits of the previous picture), then Flow video prompts that go from keyframe to keyframe with second-by-second timing, then a join-by-join continuity table (Rule 4m). Batches of about 12 clips.
 - **Stage 4** — voice sheet, sound plan, editing plan, final quality check.
 
 After each stage (and each Stage 3 batch), stop and say: *"Type **next** to continue."*

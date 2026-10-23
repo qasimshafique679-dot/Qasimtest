@@ -4,6 +4,8 @@
 
 Rule: the **END FRAME** of each clip is the **START FRAME** of the next one.
 
+> **Note:** Stage 3 v3 locks the exact camera and positions as 13 keyframe pictures (K1–K13). Where this page and the keyframes differ (e.g. Doreen stands *behind* the counter at its right end; clip 7 is filmed in side profile), **the keyframes win**.
+
 ---
 
 ## Overview
