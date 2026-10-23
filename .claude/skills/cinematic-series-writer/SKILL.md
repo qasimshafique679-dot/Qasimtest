@@ -90,7 +90,15 @@ Follow `references/workflow.md`:
 
 After each stage (and each Stage 3 batch), stop and say: *"Type **next** to continue."*
 
-Never break these rules from the workflow: the story must be 100% original (no copied names, lines, scenes or creature design); each clip's START FRAME equals the previous END FRAME; locked character and location lines are repeated word for word; each prompt is 100–180 words with the natural-skin realism line and at most 5 negatives; dialogue is at most about 18 words per clip.
+Never break these rules from the workflow: the story must be 100% original (no copied names, lines, scenes or creature design); each clip's START FRAME equals the previous END FRAME; locked character and location lines are repeated word for word; every prompt has the natural-skin realism line and at most 5 negatives; dialogue is at most about 18 words per clip.
+
+**Veo production rules (Rule 4 in the workflow, learned from real failed clips): apply them from Stage 1 onward.**
+- **Policy-safe:** no realistic banknotes (use a closed pouch or envelope), no guns or aiming (use rope, net, trap, lantern), no alcohol (coffee or tea), no blood or attacks (show the threat and reactions). Avoid "bounty / kill / brings me the beast"; say "finds / catch".
+- **"ONE CONTINUOUS SHOT, NO CUTS."** opens every video prompt; the camera is static or makes one slow move.
+- **Anchor objects:** the exact position of every important object, "stays in frame the whole time", "only ONE …".
+- **Start state first, action in the first second;** one main action per 8-second clip; exact head-counts and poses.
+- **Facial hair stated** in every locked character line ("clean-shaven, no beard or moustache").
+- **Max 3 Ingredients per clip;** a **START IMAGE PROMPT** for clips that open in a new place or group; other clips continue from the previous clip's last frame.
 
 ## Step 4 — Save the pack
 
@@ -100,11 +108,13 @@ When a working directory is available, save the pack as `video-series/<title-slu
 
 Finish with these steps for the user:
 1. Make the reference images first and keep the best ones.
-2. In Flow, create one project and add the images as **Ingredients**.
-3. Generate each clip with its listed Ingredients; make 2–3 takes and keep the best.
-4. Join connected clips with **Frames to Video** (last frame → first frame) or **Extend**.
-5. Edit in Flow Scenebuilder or CapCut using the sound and editing plan.
-6. Switch on the **AI-generated content label** when posting on YouTube, Facebook or TikTok.
+2. In Flow: rename the collection; under **Characters** create each character from their master portrait (name, voice, Character info = locked line + personality + voice, **Create body**); put location images in **Uploads**. **Scenes** fills up only with generated clips.
+3. Settings: video 16:9 (or 9:16), x2 takes, keep "Confirm before generating: Always". Use **Veo Lite only for tests**, and Fast or Quality for final takes. Clips are about 8 s by default; trim any extra.
+4. For each clip: attach at most 3 Ingredients → check the **start image** (faces, positions, one door) before approving the video → paste the video prompt. Paste only the prompt, not the END FRAME notes.
+5. Join connected clips with **Frames to Video** (last frame → first frame) or **Extend**.
+6. If a clip is blocked or comes out wrong, use the quick-fix table at the end of Stage 3, or upload the clip so it can be analysed frame by frame.
+7. Edit in Flow Scenebuilder or CapCut using the sound and editing plan.
+8. Switch on the **AI-generated content label** when posting on YouTube, Facebook or TikTok.
 
 ## Analysing a video file
 
@@ -114,3 +124,11 @@ When the user uploads a video:
 3. Contact sheet: `ffmpeg -i IN -vf "fps=12/DURATION,scale=480:-1,tile=4x3" -frames:v 1 grid.jpg`, then view the image.
 4. Burned-in subtitles: crop the caption area at 2 fps into a timestamped grid (`crop`, `drawtext=text='%{pts\:hms}'`, `tile=4x10`) and read it. If there are no subtitles, transcribe with Whisper when the network allows.
 5. Use the findings only as structure for Rule 1 (original story), never as content to copy.
+
+## Reviewing a generated clip
+
+When the user uploads a clip they made from these prompts:
+1. `ffprobe` for length and resolution (720p usually means the Lite model).
+2. A 2 fps frame grid: `ffmpeg -i IN -vf "fps=2,scale=640:-1,tile=4x5" -frames:v 1 grid.jpg`, then view it, and view single frames where something changes.
+3. Check against the clip's plan: an empty or late start, hidden cuts or jumps, faces and facial hair matching the characters, head-count and poses, the correct side of the room or bar, anchored objects (doors, props) staying in place without doubling, the action finishing by the end frame, and the camera behaviour.
+4. Report what's good and what's wrong in a table with timestamps, explain why it happened (too many actions, the camera leaving an object, a missing locked detail, policy words), then give a corrected prompt and add any new lesson to Rule 4 in `references/workflow.md`.

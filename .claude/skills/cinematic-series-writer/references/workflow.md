@@ -31,6 +31,34 @@ Relationships and emotions must grow gradually through small actions (fear → c
 
 Every event needs a reason. If someone enters a place — show why. If something is discovered — show where it was hidden. If time passes — show it (seasons, growth, light changes). If danger appears — show where it came from. If someone is rescued — show how the rescuer found them. **No teleporting, no unexplained characters, objects or locations, no sudden topic change.**
 
+## RULE 4 — VEO / FLOW PRODUCTION RULES (learned from real test clips)
+
+These come from real generations that failed. Apply them to the story, the props and every prompt.
+
+**a) Policy-safe from the start.** Veo blocks prompts and refuses clips. Never put these on screen:
+- realistic banknotes or stacks of cash → use a closed leather pouch, a sealed envelope or a cheque instead
+- guns or anyone aiming at a person or animal → use rope, a net, a trap, a torch or a lantern
+- alcohol → use coffee mugs or tea
+- blood, gore, biting or attacking → show the threat, the shadow, the breath and the reactions instead
+
+Words like "bounty", "brings me the beast" or "kill" can also trigger blocks. Use "finds", "catch" or "capture" instead. Design props this way in Stage 1 rather than fixing them later.
+
+**b) One continuous shot per clip.** Veo invents hidden cuts and jumps when a clip asks for too much. Every video prompt starts with **"ONE CONTINUOUS SHOT, NO CUTS."** Use a **locked-off static camera**, or **one** slow, simple move, never several. Get close-ups from separate clips, not by moving the camera inside one clip.
+
+**c) Anchor every important object.** Anything that leaves the frame comes back different (a door returned in a new place and doubled). For each important object, state its **exact position** (e.g. "the single front door is in the RIGHT WALL, to the right of the bar") and that it **stays in frame the whole time**. Say "only ONE door" (or one creature, one boulder) when duplicates are possible.
+
+**d) Start state first, action in the first second.** Describe where everyone already is at second 0 ("Walt is already standing BEHIND the bar"), then the main action happens immediately. Otherwise Veo opens on an empty room for 2–3 seconds.
+
+**e) One main action per 8-second clip.** If a clip needs more, split it into two clips or cut an action. A short "time cut" between clips is fine when the next clip's start image shows the journey (e.g. the lodge lights glowing far behind him through the trees).
+
+**f) Exact counts and poses.** Say how many people are there and what each is doing ("two lumberjacks sit on stools with their backs to the camera", "Doreen stays standing with arms crossed"), and add "no extra people".
+
+**g) Facial hair and age are always explicit.** Every locked character line states facial hair: *"clean-shaven chin and upper lip with no beard or moustache"* or *"short grey beard"*. If it isn't stated, Veo adds a beard to older men.
+
+**h) Maximum 3 Ingredients per clip.** Characters first, then the location. A face matters more than a background.
+
+**i) Start images.** For every clip that opens in a new place or with a new group, write a **START IMAGE PROMPT** (for Nano Banana / Gemini) so the user can check positions and faces before spending video credits. Clips that continue directly use the previous clip's last frame (*Frames to Video*).
+
 ---
 
 ## STAGE 1 — STORY, BIBLES & REFERENCE IMAGES
@@ -47,7 +75,7 @@ Title · Genre · Logline (1 sentence) · Theme · Setting · Short story summar
 For every important character (humans **and** animals/creatures):
 - Name, age, gender, ethnicity/nationality
 - Face shape, skin tone, eye colour, distinctive features (scar, mole, freckles, wrinkles)
-- Hair: colour, length, style · Beard/makeup
+- Hair: colour, length, style · Facial hair stated explicitly (e.g. "clean-shaven, no beard or moustache") · Makeup
 - Body type and build
 - Outfit (each item with colour and material), shoes, accessories
 - Personality, body language, relationships
@@ -120,12 +148,15 @@ Deliver clips in batches of about 12, waiting for **"next"** between batches.
 
 For every clip, give:
 
-**CLIP [no.] — [TITLE]** · Duration: 8 s · Ingredients to attach: [which reference images]
+**CLIP [no.] — [TITLE]** · Duration: 8 s · Ingredients (max 3): [characters first, then location] · Start image: [START IMAGE PROMPT below, or "last frame of clip N"]
 
 **START FRAME:** [copied from the previous clip's END FRAME]
 
-**FLOW PROMPT** (100–180 words, self-contained, in this order):
-1. **Shot & camera** — shot type, angle, movement, lens (e.g. *"Medium close-up, slow push-in, 50mm lens, shallow depth of field"*). Every camera move needs a story reason. Big actions (entering, rescue, discovery) get a clear, readable angle.
+**START IMAGE PROMPT** (only for clips that open in a new place or with a new group; Rule 4i): a still-image prompt showing every person and important object in its exact starting position.
+
+**FLOW PROMPT** (about 120–200 words, self-contained, in this order):
+0. **Opening line, always:** *"ONE CONTINUOUS SHOT, NO CUTS."* plus the start state ("continue exactly from the start image…") and the anchored objects (Rule 4c).
+1. **Shot & camera**: shot type, angle, lens and **one** camera behaviour: a locked-off static tripod shot (default) or a single slow move (e.g. *"static wide shot on a tripod; the camera does not move"*). Never several moves in one clip. Big actions (entering, rescue, discovery) get a clear, readable angle.
 2. **Characters** — the LOCKED CHARACTER LINE for everyone in frame, word for word. Never write "same character as before".
 3. **Action** — the exact physical order from the scene breakup, with emotions shown through the body: fear = fast breathing, wide eyes, tense shoulders; sadness = wet eyes, slow movement, pauses; anger = tight jaw, sharp movement. Subtle and real, not exaggerated.
 4. **Setting** — the LOCKED LOCATION LINE.
@@ -133,7 +164,7 @@ For every clip, give:
 6. **Realism line** (every prompt): *"Photorealistic live-action film, natural skin texture with visible pores, fine lines and subtle imperfections, natural skin tones, realistic hair, real fabric texture, natural motion blur, shot on ARRI Alexa, 35mm film look, gentle film grain."*
 7. **Dialogue** — speaker name and exact words in quotes, with a short delivery note, e.g. *Aira says quietly, her voice shaking: "Don't be afraid. I won't hurt you."* **Maximum 1–2 short lines (about 18 words) per 8-second clip.** If there is no speech, write *"No dialogue."*
 8. **Sound** — ambience + 1–2 key sound effects + music mood (e.g. *"wind howling, wooden door creaks, soft low cello"*). Use silence in the strongest emotional moments.
-9. **Negative** (keep short, max 5): *"No subtitles or text, no extra people, no face change, no distorted hands, no cartoon look."* Add one scene-specific item only if needed.
+9. **Negative** (keep short, max 5): always *"No camera cuts"*, then the most likely failures for this clip, e.g. *"no beard on [name], no extra people, no second door, no weapons, no subtitles"*.
 
 **END FRAME:** [exact final positions, as in Stage 2]
 
@@ -171,7 +202,11 @@ Silently check the whole series and **fix any problem before answering**:
 - [ ] Creature grows gradually and stays the same species and design
 - [ ] Locations, weather and time of day are consistent
 - [ ] Every prompt is self-contained with locked lines repeated word for word
-- [ ] Every prompt is 100–180 words with a realism line and at most 5 negatives
+- [ ] Every prompt opens with "ONE CONTINUOUS SHOT, NO CUTS", has one camera behaviour, a realism line and at most 5 negatives
+- [ ] Important objects have exact positions and stay in frame; no duplicates possible
+- [ ] Policy-safe: no banknotes, guns, alcohol, blood or attack words (Rule 4a)
+- [ ] Every locked character line states facial hair; max 3 Ingredients per clip
+- [ ] Start image prompts given for every clip that opens in a new place or with a new group
 - [ ] Dialogue at most about 18 words per clip, natural and easy to pronounce
 - [ ] Voices consistent per character
 - [ ] Lighting is motivated by a real source; physics are believable

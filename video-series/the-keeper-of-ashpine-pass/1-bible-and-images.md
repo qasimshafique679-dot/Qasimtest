@@ -36,11 +36,11 @@ Story source: "Married to a Hidden Fortune" reel (structure only)
 - **Setting:** Ashpine Pass, a tiny logging town high in snowy pine mountains, winter 1974.
 
 **Story in 5 acts (8 clips, 64 s)**
-1. **Hook (clip 1):** In a smoky lodge bar, Walt Kessler slaps a thick bundle of cash on the counter: $5,000 for whoever brings in the white beast.
+1. **Hook (clip 1):** In a smoky lodge bar, Walt Kessler slams a heavy leather money pouch on the counter: $5,000 to whoever finds the white beast.
 2. **The quiet one (clips 2–3):** Nora, the mail carrier, comes in from the blizzard. Doreen mocks her. Walt spots a long silver-white hair on Nora's sleeve — far too big for any wolf.
-3. **Greed (clip 4):** Doreen pushes Walt to follow her. He takes his rifle and steps into the snow.
+3. **Greed (clip 4):** Doreen pushes Walt to follow her. He takes a coil of rope and a heavy capture net and steps into the snow.
 4. **The secret (clips 5–6):** At dusk Nora skis to a hidden clearing and whistles. A horse-sized white lynx-like creature, Moss, steps out of the pines and gently lowers its head to her hand.
-5. **The turn & cliffhanger (clips 7–8):** Walt aims, grinning. A low growl behind him. He turns — an enormous older creature, Moss's mother, stands over him. Nora: "I wouldn't move, Mr. Kessler." Cut to black on his terrified face.
+5. **The turn & cliffhanger (clips 7–8):** Walt readies his net, grinning. A low growl behind him. He turns — an enormous older creature, Moss's mother, stands over him. Nora: "I wouldn't move, Mr. Kessler." Cut to black on his terrified face.
 
 ---
 
@@ -60,15 +60,15 @@ Story source: "Married to a Hidden Fortune" reel (structure only)
 
 ### Walt Kessler — the greedy lodge owner
 - **Age / gender / background:** 56, man, American
-- **Face:** broad, ruddy weathered face, heavy jowls, deep forehead lines, small pale-blue eyes, thick grey mutton-chop sideburns, no beard, slightly crooked nose
+- **Face:** broad, ruddy weathered face, heavy jowls, deep forehead lines, small pale-blue eyes, thick grey mutton-chop sideburns, clean-shaven chin and upper lip (NO beard, NO moustache), slightly crooked nose
 - **Hair:** thinning grey hair combed back
 - **Build:** tall, heavy-set, big belly
 - **Outfit:** red-and-black buffalo-plaid wool jacket over a cream thermal henley, tan corduroy trousers, wide brown leather belt with a brass buckle, worn brown leather work boots
-- **Props:** a bolt-action hunting rifle with a wooden stock (kept slung or lowered — never fired), a thick bundle of cash tied with string
+- **Props:** a heavy closed brown leather money pouch; a coil of thick hemp rope and a folded heavy rope capture net carried over his shoulder (no guns anywhere in the story)
 - **Personality:** loud, boastful, greedy, a bully who is secretly a coward
 - **Body language:** chest out, takes up space, laughs too loud
 
-> **LOCKED LINE:** Walt, a 56-year-old heavy-set American man with a ruddy weathered face, heavy jowls, small pale-blue eyes, thick grey mutton-chop sideburns, thinning combed-back grey hair, wearing a red-and-black buffalo-plaid wool jacket, cream thermal shirt and tan corduroy trousers.
+> **LOCKED LINE:** Walt, a 56-year-old heavy-set American man with a ruddy weathered face, heavy jowls, small pale-blue eyes, thick grey mutton-chop sideburns, a clean-shaven chin and upper lip with no beard or moustache, thinning combed-back grey hair, wearing a red-and-black buffalo-plaid wool jacket, cream thermal shirt and tan corduroy trousers.
 
 ### Doreen Kessler — Walt's wife
 - **Age / gender / background:** 53, woman, American
@@ -142,9 +142,9 @@ Story source: "Married to a Hidden Fortune" reel (structure only)
 
 | Prop | Look | Owner | First seen | Use / what happens |
 |---|---|---|---|---|
-| **Cash bundle** | Thick stack of 1970s US $100 bills tied with brown string | Walt | Clip 1 | Slapped on the bar as the bounty; stays on the counter |
+| **Money pouch** | Heavy closed brown leather pouch with a drawstring (money never visible) | Walt | Clip 1 | Slammed on the bar as the reward; stays on the counter |
 | **White hair strand** | One long (about 12 in) silver-white hair, shimmering slightly | from Moss | Clip 2 (on Nora's sleeve) | Walt pulls it off in clip 3 and keeps it in his fist |
-| **Hunting rifle** | Bolt-action rifle with a worn wooden stock and a leather sling | Walt | Clip 4 (on the wall rack) | Carried in clips 4–7; dropped into the snow in clip 8; **never fired** |
+| **Rope & net** | Coil of thick hemp rope and a folded heavy brown rope capture net | Walt | Clip 4 (on an iron hook by the front door) | Carried over his right shoulder in clips 4–7; dropped into the snow in clip 8 |
 | **Mail satchel** | Worn brown leather bag with a brass buckle | Nora | Clip 2 | Always across her body |
 | **Skis & poles** | Wooden cross-country skis, bamboo poles | Nora | Clip 5 | She takes them off at the clearing and leans them on the log |
 
@@ -155,7 +155,7 @@ Story source: "Married to a Hidden Fortune" reel (structure only)
 | Character | Start | Changes |
 |---|---|---|
 | Nora | Outfit as in the bible, snow on her shoulders and beanie | Snow builds up in clips 5–8; cheeks redder outdoors |
-| Walt | Plaid jacket, no hat | Clip 4 onwards: puts on a brown leather cap with ear flaps and brown leather gloves; snow builds on his shoulders in clips 5–8 |
+| Walt | Plaid jacket, no hat | Clip 4 onwards: puts on a brown leather cap with ear flaps and carries the rope and net over his right shoulder; snow builds on his shoulders in clips 5–8 |
 | Doreen | Indoors only, no change | — |
 | Moss | Clean white fur | Snowflakes settle on his back |
 | The Mother | Snow on her back and head | — |
@@ -188,11 +188,11 @@ Same woman, same face, same outfit. Six close-ups in a grid: neutral, soft smile
 ### Walt
 **a) Master portrait**
 ```
-Front-facing medium close-up portrait of Walt, a 56-year-old heavy-set American man with a ruddy weathered face, heavy jowls, small pale-blue eyes, thick grey mutton-chop sideburns, thinning combed-back grey hair, wearing a red-and-black buffalo-plaid wool jacket, cream thermal shirt and tan corduroy trousers. Neutral expression, plain soft-grey background, soft window light, 85mm lens, photorealistic, natural skin texture with visible pores, broken capillaries and deep wrinkles, natural skin-tone variation, natural film grain, not retouched, 16:9.
+Front-facing medium close-up portrait of Walt, a 56-year-old heavy-set American man with a ruddy weathered face, heavy jowls, small pale-blue eyes, thick grey mutton-chop sideburns, a clean-shaven chin and upper lip with no beard or moustache, thinning combed-back grey hair, wearing a red-and-black buffalo-plaid wool jacket, cream thermal shirt and tan corduroy trousers. Neutral expression, plain soft-grey background, soft window light, 85mm lens, photorealistic, natural skin texture with visible pores, broken capillaries and deep wrinkles, natural skin-tone variation, natural film grain, not retouched, 16:9.
 ```
 **b) Character sheet** *(upload walt-master)*
 ```
-Same man, same face, same outfit. Show 5 views side by side on a plain light-grey background: front, left profile, right profile, three-quarter view, and full body wearing a brown leather cap with ear flaps and brown leather gloves, holding a wooden-stock hunting rifle pointed at the ground. Same lighting, photorealistic, natural skin texture, 16:9.
+Same man, same face, same outfit. Show 5 views side by side on a plain light-grey background: front, left profile, right profile, three-quarter view, and full body wearing a brown leather cap with ear flaps, with a coil of thick hemp rope and a folded rope capture net over his shoulder. Same lighting, photorealistic, natural skin texture, 16:9.
 ```
 **c) Expression sheet** *(upload walt-master)*
 ```
@@ -249,10 +249,10 @@ Wide shot of a hidden round clearing in a 1974 snowy pine forest, ringed by tall
 
 ### Key props
 ```
-Close-up product photo of a thick stack of 1970s US hundred-dollar bills tied with brown string, lying on a worn varnished wooden bar counter, warm lamp light, photorealistic, 16:9.
+Close-up product photo of a heavy closed brown leather drawstring pouch lying on a worn varnished wooden bar counter, warm lamp light, photorealistic, 16:9.
 ```
 ```
-Close-up of a bolt-action hunting rifle with a worn wooden stock and leather sling resting on a wall rack of dark logs, warm light, photorealistic, 16:9.
+Close-up of a coil of thick hemp rope and a folded heavy rope capture net hanging on an iron hook on a dark log wall, warm light, photorealistic, 16:9.
 ```
 
 ---
